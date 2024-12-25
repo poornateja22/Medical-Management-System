@@ -1,7 +1,7 @@
 # Medical Management System
 
 ## Overview
-The Web Medical Management System is a console-based application developed to streamline the management of patient information, appointments, and medical records for healthcare providers. Built using Core Java, MySQL, and JDBC, this project demonstrates effective use of database connectivity and object-oriented programming principles.
+The Medical Management System is a console-based application developed to streamline the management of patient information, appointments, and medical records for healthcare providers. Built using Core Java, MySQL, and JDBC, this project demonstrates effective use of database connectivity and object-oriented programming principles.
 
 ## Table of Contents
 - [Features](#features)
